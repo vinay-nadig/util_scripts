@@ -1,12 +1,13 @@
 *Few utility scripts for day to day use.
 
-1. battery_test.sh
+1. battery test.sh
 __________________
 Lithium Ion battery usually has the longest lifespan if the charge in it maintained between 60 to 80 percent.
 Keeping the battery charget at 100% all the time reduces the lifespan and so does draining it constantly.
 Since I am in no mood to spend another 2K on the battery any time soon, this script constantly reminds me to plug or
 unplug the charger in very kind words. Put it in cron with the desired frequency.
 * TODO
+______
 Learn awk. No friggin clue how line number 2 works :/
 
 2. conky.sh
