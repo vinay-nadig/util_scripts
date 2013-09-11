@@ -12,4 +12,4 @@ ___________
 
 3. dictionary.py
 ________________
-	Tired of opening browser/dictionary every time I want to search a new word. :/ just select/copy the word U want to search and launch this script from a keyboard shortcut and it notifies you with meanings, examples. Needs nltk library though, which is friggin huge! (around 700MB)
+	Tired of opening browser/dictionary every time I want to search a new word. :/ just select/copy the word you want to search and launch this script from a keyboard shortcut and it notifies you with meanings, examples. Needs nltk library though, which is friggin huge! (around 700MB)
