@@ -22,6 +22,7 @@ def main():
     s = Searcher(POLL_FREQ)
     s.add_subreddit("forhire")
     s.add_subreddit("jobbit")
+    s.add_subreddit("jobs4Bitcoins")
 
     pynotify.init("Job Searcher")
 
